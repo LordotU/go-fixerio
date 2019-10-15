@@ -2,7 +2,7 @@
 //
 // Using this package is easy as 1-2-3:
 //
-//     fixerio := gofixerio.New("your API key here", "EUR", "false")
+//     fixerio, _ := gofixerio.New("your API key here", "EUR", "false")
 //     latestRates, err := fixerio.GetLatest()
 //     if err != nil {
 //             log.Panic(err)

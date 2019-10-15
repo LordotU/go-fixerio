@@ -36,3 +36,7 @@ The simplest example is:
 		log.Printf("%+v", latestRates)
 	}
 ```
+
+## Docs
+
+https://godoc.org/github.com/LordotU/go-fixerio

@@ -1,6 +1,6 @@
 # gofixerio &mdash; Simple wrapper for https://fixer.io API
 
-[![License](https://img.shields.io/badge/License-MIT-000000.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/LordotU/go-fixerio.svg?branch=master)](https://travis-ci.org/LordotU/go-fixerio) [![Go Report Card](https://goreportcard.com/badge/github.com/LordotU/go-fixerio)](https://goreportcard.com/report/github.com/LordotU/go-fixerio) [![GoDoc](https://godoc.org/github.com/LordotU/go-fixerio?status.svg)](https://godoc.org/github.com/LordotU/go-fixerio)
+[![License](https://img.shields.io/badge/License-MIT-000000.svg)](https://opensource.org/licenses/MIT) [![Go Report Card](https://goreportcard.com/badge/github.com/LordotU/go-fixerio)](https://goreportcard.com/report/github.com/LordotU/go-fixerio) [![GoDoc](https://godoc.org/github.com/LordotU/go-fixerio?status.svg)](https://godoc.org/github.com/LordotU/go-fixerio) [![Build Status](https://travis-ci.org/LordotU/go-fixerio.svg?branch=master)](https://travis-ci.org/LordotU/go-fixerio) [![Coverage Status](https://coveralls.io/repos/github/LordotU/go-fixerio/badge.svg?branch=master)](https://coveralls.io/github/LordotU/go-fixerio?branch=master)
 
 ## Installation
 
